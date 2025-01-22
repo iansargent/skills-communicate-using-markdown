@@ -9,3 +9,7 @@
 ``` R
 k_vector = (1:10)
 ```
+### Creating a task list
+- [x] Create an ORCiD
+- [x] Complete GitHub Intro Courses
+- [ ] Explore ORCA Handbook
